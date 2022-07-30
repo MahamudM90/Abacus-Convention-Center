@@ -11,3 +11,34 @@ body{
     gap:10px; 
     color:#FFFFFF"
 }
+.btnc{
+height: 44px;
+width: 230px;
+left: 737px;
+top: 1037px;
+border-radius: 0px;
+padding: 10px, 24px, 10px, 24px;
+color:#3F87F5;
+
+}
+.h{
+    color:#0A0826;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 60px;
+}
+.c{
+   color: #6C6C6C;
+}
+
+.header{
+    color: #3E3E3E;
+    height: 33px;
+  width: 305px;
+  left: 156px;
+  top: 40px;
+ border-radius: nullpx;
+
+
+
+}
